@@ -24,5 +24,6 @@ jobs:
          key: ${{ secrets.SERVER_SSH_KEY }}
          script: |
            cd /var/www/html/dtsanchezwebsite
+           sudo su
            git pull origin main
 
