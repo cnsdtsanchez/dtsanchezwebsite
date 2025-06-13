@@ -39,12 +39,11 @@
     <div class="bg-box">
       <img src="images/nbh.jpg" class="nbh" alt="">
     </div>
-    
+
     <?php
       include 'header.php';
     ?>
 
-    <!-- slider section -->
     <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -120,7 +119,6 @@
       </div>
 
     </section>
-    <!-- end slider section -->
 
   </div>
   <!-- end home section -->
@@ -876,167 +874,10 @@
 
   <!-- end about section -->
 
-  <!-- catalogue section -->
 
-  <section class="client_section layout_padding-bottom">
-    <div class="container">
-      <div class="heading_container heading_center psudo_white_primary mb_45">
-        <h2>
-          Catalogue
-        </h2>
-      </div>
-
-      <!-- portfolio section -->
-      <div class="portfolio">
-        <p>
-          Catalogue
-        </p>
-        <div class="post">
-          <div class="post-img"></div>
-          <div class="post-inf"></div>
-        </div>
-      </div>
-      <!-- end portfolio section -->
-
-      <div class="gentleline"></div>
-   
-      <!-- Google Reviews section -->
-      <div class="carousel-wrap row ">
-        <div class="owl-carousel client_owl-carousel">
-          <div class="item">
-            <div class="box">
-              <div class="detail-box">
-                <p>
-                  Absolutely fantastic experience! The team was professional, friendly, and truly went above and beyond to make sure I was satisfied. The quality of service was top-notch, and the attention to detail really stood out. Highly recommend to anyone looking for excellence—I'll definitely be coming back!                </p>
-                <h6>
-                  emailaddress@email.com
-                </h6>
-                <p>
-                  name lastname
-                </p>
-              </div>
-              <div class="img-box">
-                <img src="images/client.png" alt="" class="box-img">
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="box">
-              <div class="detail-box">
-                <p>
-                  Absolutely fantastic experience! The team was professional, friendly, and truly went above and beyond to make sure I was satisfied. The quality of service was top-notch, and the attention to detail really stood out. Highly recommend to anyone looking for excellence—I'll definitely be coming back!                </p>
-                </p>
-                <h6>
-                  emailaddress@email.com
-                </h6>
-                <p>
-                  name lastname
-                </p>
-              </div>
-              <div class="img-box">
-                <img src="images/client.png" alt="" class="box-img">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- end Google Reviews section -->
-
-    </div>
-  </section>
-  <!-- catalogue section -->
-
-  <!-- footer section -->
-
-  <footer class="footer_section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 footer-col">
-          <div class="footer_detail">
-            <a href="" class="footer-logo">
-              DTSanchez Construction
-            </a>
-            <p>
-              "We are creators, visionaries, and artisans on a mission to make Montreal more beautiful. Every project we take on is crafted with passion, precision, and purpose. From restorations to bold new designs, we build more than structures—we shape communities and leave a lasting legacy.            <div class="footer_social">
-              <a href="">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-              </a>
-              <a href="">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-              </a>
-              <a href="">
-                <i class="fa fa-linkedin" aria-hidden="true"></i>
-              </a>
-              <a href="">
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-              </a>
-              <a href="">
-                <i class="fa fa-pinterest" aria-hidden="true"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 footer-col">
-          <div class="footer_contact">
-            <h4>
-              Contact
-            </h4>
-            <div class="contact_link_box">
-              <a href="">
-                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <span>
-                  Location
-                </span>
-              </a>
-              <a href="">
-                <i class="fa fa-phone" aria-hidden="true"></i>
-                <span>
-                  Call (514)714-9628
-                </span>
-              </a>
-              <a href="">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-                <span>
-                  dtsanchezconstruction@gmail.com
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 footer-col">
-          <h4>
-            Opening Hours
-          </h4>
-          <p>
-            Monday - Saturday
-          </p>
-          <p>
-            9:00 - 17:00
-          </p>
-        </div>
-      </div>
-      <div class="footer-info">
-        <p>
-          <span class="div-footer-info">
-          &copy; <span id="displayYear"></span> All Rights Reserved By
-          <span href="dtsanchez.com">DTSanchez Construction Inc.</span>
-          </span>
-
-          <div class="div-footer-info">
-          &copy; <span id="displayYear"></span> Distributed By
-          <span href="cloudflare.com" target="_blank">CloudFlare</span>
-          </span>
-
-          <span class="div-footer-info">
-          &copy; <span id="displayYear"></span> RBQ
-          <span href="cloudflare.com" target="_blank">1832-9839-55</span>
-          </span>
-        </p>
-      </div>
-    </div>
-  </footer>
-
-  <!-- footer section -->
+  <?php
+    include 'header.php';
+  ?>
 
   <!-- jQery -->
   <script src="js/jquery-3.4.1.min.js"></script>
