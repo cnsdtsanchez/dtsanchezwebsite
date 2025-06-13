@@ -873,10 +873,12 @@
   </section>
 
   <!-- end about section -->
-
+  <?php
+    include 'catalogue.php';
+  ?>
 
   <?php
-    include 'header.php';
+    include 'footer.php';
   ?>
 
   <!-- jQery -->
