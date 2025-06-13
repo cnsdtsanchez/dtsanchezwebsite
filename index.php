@@ -39,7 +39,10 @@
     <div class="bg-box">
       <img src="images/nbh.jpg" class="nbh" alt="">
     </div>
-
+    <?php
+    // Including an external file
+    include 'header.php';
+    ?>
     <!-- header section strats -->
     <header class="header_section">
       <div class="container">

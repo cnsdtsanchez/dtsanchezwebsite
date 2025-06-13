@@ -1,4 +1,3 @@
-<!-- header section strats -->
     <header class="header_section">
       <div class="container">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
@@ -20,13 +19,13 @@
                 <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="menu.html">Menu</a>
+                <a class="nav-link" href="service.html">Service</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="catalogue.html">Catalogue</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.html">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="book.html">Book Table</a>
               </li>
             </ul>
             <div class="user_option">
@@ -93,7 +92,7 @@
                 </button>
               </form>
               <a href="" class="order_online">
-                Give a Call
+                Call Now
               </a>
             </div>
           </div>
