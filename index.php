@@ -39,6 +39,7 @@
     <div class="bg-box">
       <img src="images/nbh.jpg" class="nbh" alt="">
     </div>
+    
     <?php
       include 'header.php';
     ?>
