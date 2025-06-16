@@ -162,7 +162,7 @@
                     <h6>
                       $20
                     </h6>
-                    <a href="">
+                    <a class="cart_link" href="">
                     </a>
                   </div>
                 </div>
